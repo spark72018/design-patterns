@@ -1,3 +1,5 @@
+# Strategy Pattern (Intro)
+
 *Program to an interface, not an implementation*: 
 - In the beginning of the book, we are faced with a problem where we have a **Duck** class, from which different types of ducks can be instantiated. 
 - We are going to keep all the things that stay the same within the Duck class. The things that vary, in this case we are looking at the *fly* and *quack* behavior, are going to be their own classes that will hold the implementation of the respective behavior. 

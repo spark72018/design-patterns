@@ -1,3 +1,5 @@
+# Decorator Pattern
+
 Example Problem (corresponding file can be found [here](index.ts)):
 Design Principle: Open-Closed Principle
 - Classes should be open for extension, but closed for modification. Our goal should be to write code
